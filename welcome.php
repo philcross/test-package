@@ -1,8 +1,8 @@
 <?php
 
 function greet() {
-	echo 'Welcome';
-	echo 'Goodbye';
+    echo 'Welcome';
+    echo 'Goodbye';
 }
 
 greet();
