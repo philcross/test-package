@@ -1,0 +1,10 @@
+{
+    "name": "philcross/test-package",
+    "authors": [
+        {
+            "name": "Phil Cross",
+            "email": "phil.cross@itccompliance.co.uk"
+        }
+    ],
+    "require": {}
+}
