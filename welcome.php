@@ -1,4 +1,8 @@
 <?php
 
-echo 'Welcome';
-echo 'Goodbye';
+function greet() {
+	echo 'Welcome';
+	echo 'Goodbye';
+}
+
+greet();
